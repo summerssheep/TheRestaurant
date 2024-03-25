@@ -1,0 +1,10 @@
+C:\Users\Jeremias\Desktop\MenuApp\MenuApp\bin\Debug\MenuApp.exe.config
+C:\Users\Jeremias\Desktop\MenuApp\MenuApp\bin\Debug\MenuApp.exe
+C:\Users\Jeremias\Desktop\MenuApp\MenuApp\bin\Debug\MenuApp.pdb
+C:\Users\Jeremias\Desktop\MenuApp\MenuApp\obj\Debug\MenuApp.csproj.AssemblyReference.cache
+C:\Users\Jeremias\Desktop\MenuApp\MenuApp\obj\Debug\MenuApp.Form1.resources
+C:\Users\Jeremias\Desktop\MenuApp\MenuApp\obj\Debug\MenuApp.Properties.Resources.resources
+C:\Users\Jeremias\Desktop\MenuApp\MenuApp\obj\Debug\MenuApp.csproj.GenerateResource.cache
+C:\Users\Jeremias\Desktop\MenuApp\MenuApp\obj\Debug\MenuApp.csproj.CoreCompileInputs.cache
+C:\Users\Jeremias\Desktop\MenuApp\MenuApp\obj\Debug\MenuApp.exe
+C:\Users\Jeremias\Desktop\MenuApp\MenuApp\obj\Debug\MenuApp.pdb
